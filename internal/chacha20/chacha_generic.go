@@ -10,7 +10,7 @@ import (
 	"crypto/cipher"
 	"encoding/binary"
 
-	"github.com/bored-engineer/ssh/internal/subtle"
+	"github.com/xjj1/ssh/internal/subtle"
 )
 
 // assert that *Cipher implements cipher.Stream
